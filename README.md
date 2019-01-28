@@ -39,7 +39,7 @@
 @coinmetrics](https://twitter.com/coinmetrics) - Cryptoasset analytics, exportable data, and visualizations. In pursuit of rigor and clarity.
 * [Crypto Quantamental (@CryptoQF) Coin Selection Model](https://twitter.com/CryptoQF/status/1042265797584797696) [[**D**](https://docs.google.com/spreadsheets/d/1gj15bVnukLGR14PrZ09us7ScRrhM8yg71_CalKX7gbU/edit?usp=sharing)]
   > "Important Disclaimer: This model is not designed to determine whether the crypto market will rise or fall. It is not designed to select coins that will have the most positive returns or identify coins with negative returns. It is designed to identify the coins that have the greatest chances of outperforming and the coins with the greatest chances of underperforming. Outperforming and underperforming is relative to the crypto universe. Therefore if the average crypto coin is up 1000% the dark green coins, in aggregate, would be attempting to beat that. If the average coin is down 50%, the dark green coins will be trying to beat that. This is not financial advice. This is merely my personal model, and I am sharing how I utilize it."
-
+  * [CryptoQuantamental @CryptoQF Educational Youtube Channel](https://www.youtube.com/channel/UCnVOQqymq5ZQkG536EItX0Q/)
 
 ### Quant-Algorithmic Trading [**^**](#contents) 
 * [The Market Cycles of ICOs, Bitcoin, and Ether](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3198694)
