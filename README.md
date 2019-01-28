@@ -2,13 +2,13 @@
 
 ### Data
 
-* https://www.reddit.com/r/CryptoCurrency/comments/988lxb/i_have_5_years_of_coinmarketcapcom_crypto_price/?utm_source=reddit-android
-* https://panelpicker.sxsw.com/vote/91245
-* https://www.blockchaintransparency.org/reports
-* https://blockchair.com/
-* https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics
-* https://www.trustnodes.com/2018/08/16/nearly-one-trillion-dollars-worth-bitcoin-transferred-2018-close-half-trillion-ethereum
-* https://blog.chainalysis.com/reports/money-supply-q3
+* [reddit: I have 5 years of coinmarketcap.com crypto price data in a csv file, feel free download for your own db, its free.](https://www.reddit.com/r/CryptoCurrency/comments/988lxb/i_have_5_years_of_coinmarketcapcom_crypto_price/)
+* [10 YEARS OF BLOCKCHAIN DATA SCIENCE](https://panelpicker.sxsw.com/vote/91245)
+* [August 2018 - Initial Exchange Rankings Report](https://www.blockchaintransparency.org/reports)
+* [Blockchair](https://blockchair.com/) - is a search engine for Bitcoin, Bitcoin Cash, Bitcoin SV, Ethereum and Litecoin blockchains.
+* [Ethereum in BigQuery: a Public Dataset for smart contract analytics](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics)
+* [Nearly One Trillion Dollars Worth of Bitcoin Has Been Transferred in 2018, Close to Half a Trillion For Ethereum](https://www.trustnodes.com/2018/08/16/nearly-one-trillion-dollars-worth-bitcoin-transferred-2018-close-half-trillion-ethereum)
+* https://blog.chainalysis.com/ - Data-driven content on cryptocurrency markets, regulation, and developments.
 * https://twitter.com/ChartsBtc/media
 * https://twitter.com/BitcoinVisuals
 * https://twitter.com/coinmetrics
