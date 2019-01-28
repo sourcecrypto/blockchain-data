@@ -27,6 +27,7 @@
 ### Nomics
 
 * [nomics.com](https://nomics.com) - 100% of Nomics Was Created With Our Free Crypto API. Free Instant Access 
+  * returns csv format — you can use importdata function in google ss. 
 * [blog.nomics.com](https://blog.nomics.com/) - Great Podcast and Data Driven Analysis
 * [[Podcast] The State of Crypto Market Data w/ Vortex & Nomics’ Co-founders (Ep. 0027)](https://blog.nomics.com/flippening/crypto-market-data/)
 
