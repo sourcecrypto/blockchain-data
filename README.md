@@ -8,7 +8,7 @@
 * [Blockchair](https://blockchair.com/) - is a search engine for Bitcoin, Bitcoin Cash, Bitcoin SV, Ethereum and Litecoin blockchains.
 * [Nearly One Trillion Dollars Worth of Bitcoin Has Been Transferred in 2018, Close to Half a Trillion For Ethereum](https://www.trustnodes.com/2018/08/16/nearly-one-trillion-dollars-worth-bitcoin-transferred-2018-close-half-trillion-ethereum)
 * https://blog.chainalysis.com/ - Data-driven content on cryptocurrency markets, regulation, and developments.
-* CoinMetrics.io (@coinmetrics)
+* https://CoinMetrics.io (@coinmetrics) - Open source cryptoasset analytics
 * [Public - ICO Returns 2014-2018](https://docs.google.com/spreadsheets/d/1ioxvJgJiZui9ZD1nud2oLpClYCFcnzvgvMucI56uy-g/edit#gid=1772156349)
 * [CMC Doesn't Suck - Unqualified Opinions #4 Hidden inflation is a tricky, material, fundamental crypto metric.](https://messari.substack.com/p/cmc-doesnt-suck-unqualified-opinions-4?utm_medium=web&utm_campaign=share-web)
 * [Breaking blockchain open Deloitte’s 2018 global blockchain survey](https://cryptowest.com/wp-content/uploads/2018/08/us-fsi-2018-global-blockchain-survey-report.pdf)
