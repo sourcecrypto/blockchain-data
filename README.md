@@ -6,22 +6,38 @@
 * [10 YEARS OF BLOCKCHAIN DATA SCIENCE](https://panelpicker.sxsw.com/vote/91245)
 * [August 2018 - Initial Exchange Rankings Report](https://www.blockchaintransparency.org/reports)
 * [Blockchair](https://blockchair.com/) - is a search engine for Bitcoin, Bitcoin Cash, Bitcoin SV, Ethereum and Litecoin blockchains.
-* [Ethereum in BigQuery: a Public Dataset for smart contract analytics](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics)
 * [Nearly One Trillion Dollars Worth of Bitcoin Has Been Transferred in 2018, Close to Half a Trillion For Ethereum](https://www.trustnodes.com/2018/08/16/nearly-one-trillion-dollars-worth-bitcoin-transferred-2018-close-half-trillion-ethereum)
 * https://blog.chainalysis.com/ - Data-driven content on cryptocurrency markets, regulation, and developments.
-* https://twitter.com/ChartsBtc/media
-* https://twitter.com/BitcoinVisuals
-* https://twitter.com/coinmetrics
 * CoinMetrics.io (@coinmetrics)
-* https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-how-we-built-dataset
-* https://epicenter.tv/episode/254/
-* https://docs.google.com/spreadsheets/d/1ioxvJgJiZui9ZD1nud2oLpClYCFcnzvgvMucI56uy-g/edit#gid=1772156349
-* https://blog.nomics.com/flippening/crypto-market-data/
-* https://nomics.com
-* https://messari.substack.com/p/cmc-doesnt-suck-unqualified-opinions-4?utm_medium=web&utm_campaign=share-web
-* https://cryptowest.com/wp-content/uploads/2018/08/us-fsi-2018-global-blockchain-survey-report.pdf
-* https://cointelegraph.com/news/public-records-show-us-government-tripled-investment-in-blockchain-analysis-firms-in-2018
-* https://bitdb.network/
+* [Public - ICO Returns 2014-2018](https://docs.google.com/spreadsheets/d/1ioxvJgJiZui9ZD1nud2oLpClYCFcnzvgvMucI56uy-g/edit#gid=1772156349)
+* [CMC Doesn't Suck - Unqualified Opinions #4 Hidden inflation is a tricky, material, fundamental crypto metric.](https://messari.substack.com/p/cmc-doesnt-suck-unqualified-opinions-4?utm_medium=web&utm_campaign=share-web)
+* [Breaking blockchain open Deloitte’s 2018 global blockchain survey](https://cryptowest.com/wp-content/uploads/2018/08/us-fsi-2018-global-blockchain-survey-report.pdf)
+* [Public Records Show US Government Tripled Investment in Blockchain Analysis Firms in 2018](https://cointelegraph.com/news/public-records-show-us-government-tripled-investment-in-blockchain-analysis-firms-in-2018)
+* [bitdb - Random Access Memory for Bitcoin](https://bitdb.network/)   
+  * BitDB is an autonomous database that continuously synchronizes itself with Bitcoin.
+  * BitDB stores every bitcoin transaction in a structured document format that can be queried against like a regular database.
+  * With a simple MongoDB query, anyone can easily query, filter, and build powerful decentralized applications on Bitcoin.
+
+
+### BigQuery
+* https://epicenter.tv/episode/254/ -Google’s Mission to Provide Open Datasets for Public Blockchains
+* [Ethereum in BigQuery: a Public Dataset for smart contract analytics](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics)
+* [Ethereum in BigQuery:  how we built this dataset](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-how-we-built-dataset)
+
+### Nomics
+
+* [nomics.com](https://nomics.com) - 100% of Nomics Was Created With Our Free Crypto API. Free Instant Access 
+* [[Podcast] The State of Crypto Market Data w/ Vortex & Nomics’ Co-founders (Ep. 0027)](https://blog.nomics.com/flippening/crypto-market-data/)
+
+### Twitter
+
+* [BitcoinVisuals.com @BitcoinVisuals](https://twitter.com/BitcoinVisuals) - Making Bitcoin data more accessible. Blockchain, lightning network, market data, and more.
+* [Bitcoin Charts @ChartsBtc](https://twitter.com/ChartsBtc/media) - Excel user since Lotus 1-2-3. Just enough SQL to be dangerous. Click Media on my profile for all my crazy Bitcoin charts.
+* [CoinMetrics.io
+@coinmetrics](https://twitter.com/coinmetrics) - Cryptoasset analytics, exportable data, and visualizations. In pursuit of rigor and clarity.
+* [Crypto Quantamental (@CryptoQF) Coin Selection Model](https://twitter.com/CryptoQF/status/1042265797584797696) [[**D**](https://docs.google.com/spreadsheets/d/1gj15bVnukLGR14PrZ09us7ScRrhM8yg71_CalKX7gbU/edit?usp=sharing)]
+  > "Important Disclaimer: This model is not designed to determine whether the crypto market will rise or fall. It is not designed to select coins that will have the most positive returns or identify coins with negative returns. It is designed to identify the coins that have the greatest chances of outperforming and the coins with the greatest chances of underperforming. Outperforming and underperforming is relative to the crypto universe. Therefore if the average crypto coin is up 1000% the dark green coins, in aggregate, would be attempting to beat that. If the average coin is down 50%, the dark green coins will be trying to beat that. This is not financial advice. This is merely my personal model, and I am sharing how I utilize it."
+
 
 ### Quant-Algorithmic Trading [**^**](#contents) 
 * [The Market Cycles of ICOs, Bitcoin, and Ether](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3198694)
@@ -50,6 +66,4 @@
   > "Today I want to introduce a slightly different approach to fitting the same algorithms. Treating them with probabilistic point of view allows us to learn regularization from data per se, estimate certainty in our forecasts, use much less data for training and inject additional probabilistic dependencies in our models. I will not dive so much into technical or mathematical details of bayesian models or variational inference, I will give some overview, but also concentrate more on application."
 * [Backtesting with Pandas](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-backtesting-in-pandas-4940fec2175e)
   > "We were mostly concentrated on forecasting accuracy and experimenting around that before and we touched backtesting issue very briefly and using code from the Mike Halls-Moore’s book. Of course having a nice backtesting code allows to build really good strategies with risk management, money management and consider different scenarios, but if you’re researching just signals obtained from different data sources (even it’s just historical prices) with use of machine learning you need something simpler to understand if these signals to go long or short are really useful. Basically we just want to check the difference between prices and multiply it by signal sign — up or down and accumulate this info during test period."
-* [Crypto Quantamental (@CryptoQF) Coin Selection Model](https://twitter.com/CryptoQF/status/1042265797584797696) [[**D**](https://docs.google.com/spreadsheets/d/1gj15bVnukLGR14PrZ09us7ScRrhM8yg71_CalKX7gbU/edit?usp=sharing)]
-  > "Important Disclaimer: This model is not designed to determine whether the crypto market will rise or fall. It is not designed to select coins that will have the most positive returns or identify coins with negative returns. It is designed to identify the coins that have the greatest chances of outperforming and the coins with the greatest chances of underperforming. Outperforming and underperforming is relative to the crypto universe. Therefore if the average crypto coin is up 1000% the dark green coins, in aggregate, would be attempting to beat that. If the average coin is down 50%, the dark green coins will be trying to beat that. This is not financial advice. This is merely my personal model, and I am sharing how I utilize it."
 
