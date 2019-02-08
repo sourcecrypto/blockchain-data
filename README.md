@@ -1,4 +1,8 @@
-# Blockchain Data - Quant Trading - Analytics
+# Blockchain Data Science - Analytics
+
+Quant Trading has its own section in [/learn-crypto-trading](https://github.com/infominer33/learn-crypto-trading)
+
+For now this repo is not really doing its job.
 
 ### Data
 
